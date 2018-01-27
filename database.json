@@ -1,0 +1,38 @@
+{
+  "sugg": [
+    {
+      "story_value": "mettres des phrases ou citations de la série aléatoirement quand on fais <pc (ou une autre command)",
+      "story_author": "Alex_"
+    },
+    {
+      "story_value": "commande <clear",
+      "story_author": "Alex_"
+    },
+    {
+      "story_value": "<role a faire",
+      "story_author": "Alex_"
+    },
+    {
+      "story_value": "commande musique",
+      "story_author": "Alex_"
+    },
+    {
+      "story_value": "Améliorer le  <réseaux",
+      "story_author": "Alex_"
+    }
+  ],
+  "story": [],
+  "xp": [
+    {
+      "xp": 1
+    },
+    {
+      "username": "Alex_",
+      "xp": 161
+    },
+    {
+      "username": "Fury-W",
+      "xp": 3
+    }
+  ]
+}
